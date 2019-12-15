@@ -1,4 +1,4 @@
-#include "../include/genetic_al.h"
+#include "include/genetic_al.h"
 
 #define population_size 6
 #define chromosome_size 10
